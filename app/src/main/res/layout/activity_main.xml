@@ -13,7 +13,7 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Insira o tempo em segundos."
+        android:hint="Insira o tempo em segundos"
         android:inputType="numberDecimal"
         android:id="@+id/tempo"/>
 
